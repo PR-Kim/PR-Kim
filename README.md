@@ -28,4 +28,4 @@
 - 🤔 **관심있는 것** :   
 ![신기술](https://img.shields.io/badge/Skills_for_backend-%23FF9900?style=for-the-badge&logo=&logoColor=white) ![Architecturing](https://img.shields.io/badge/Architecturing-%23F05033.svg?style=for-the-badge&logo=&logoColor=white)     
 
-- 📫 **[How to reach me]**(mailto:purnzzang@naver.com)
+- 📫 **[How to reach me](mailto:purnzzang@naver.com)**
